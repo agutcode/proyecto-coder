@@ -131,10 +131,10 @@ header {
     .btn--buy:hover {
       background-color: #9c8dc3; }
 
-.bn-primary {
+.btn-primary {
   background-color: #3e01ad; }
 
-.bn-secondary {
+.btn-secondary {
   background-color: #8a73b4; }
 
 .btn-outline {
